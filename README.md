@@ -7,4 +7,5 @@
 **Pictures from the web site**
 
 
-![alt text](https://github.com/AliBacik/Bootstrap-AwesomeBlog/ScreenShots/.png)
+![alt text](https://github.com/AliBacik/Awesome-Blog/blob/main/Bootstrap%20AwesomeBlog/ScreenShots/Blog.PNG)
+![alt text](https://github.com/AliBacik/Awesome-Blog/blob/main/Bootstrap%20AwesomeBlog/ScreenShots/Blog2.PNG)
